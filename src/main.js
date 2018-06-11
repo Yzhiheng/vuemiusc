@@ -4,6 +4,7 @@ import router from './router'
 import fastclick from 'fastclick'
 import 'common/stylus/index.styl'
 
+// ES6语法转义插件
 fastclick.attach(document.body)
 Vue.config.productionTip = false
 
